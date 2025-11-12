@@ -4,10 +4,8 @@
 
 export const environment = {
   production: false,
-  apiUrl: "https://portal.zsureisen.eu/",
-  // apiUrl:"https://localhost:44331/api",
-  // serverUrl:"https://"
-  serverUrl: "https://portal.zsureisen.eu/"
+  apiUrl: "https://api.ivatireisen.ch/",
+  serverUrl: "https://api.ivatireisen.ch/"
 };
 /*
  * For easier debugging in development mode, you can import the following file
